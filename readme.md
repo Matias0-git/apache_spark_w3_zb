@@ -2,7 +2,7 @@
 
 With this third publication I want to showcase what we did on week 3 of the zach bootcamp. I am going to cover the concepts that he taught us and the hands-on labs.
 
-First of all, for the concepts that were introduced in week 2 are:
+First of all, for the concepts that were introduced in week 3 are:
 
 - Day 1
   - Architecture of apache spark
